@@ -3,7 +3,7 @@ iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
 
 # for a clean URL
-permalink: https://bt3825.github.io/
+permalink: https://bt3825.github.io/ :slug
 
 social:
   twitter: _BT3
