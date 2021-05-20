@@ -1,13 +1,13 @@
-title: Leaf Blog
+title: BT3 Blog
 iconURL: assets/default-icon.png
 theme: jekyll-theme-leaf
 
 # for a clean URL
-permalink: :slug
+permalink: https://bt3825.github.io/
 
 social:
-  twitter: _SupunKavinda
-  github: SupunKavinda
+  twitter: _BT3
+  github: BT3785
 
 plugins:
  - jekyll-feed
